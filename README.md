@@ -18,7 +18,7 @@
       Hydra:{
         objName3:{
           type: "Class",
-          language: "python v3.0"
+          plugin: "Jormungand"
           props:{
             size: "18",
             desc: "weighty thing"
